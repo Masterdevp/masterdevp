@@ -1,107 +1,173 @@
-<!-- Encabezado Animado con Onda (Capsule Render) -->
+<!-- BANNER SUPERIOR NEGRO & ROJO -->
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Master&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18"
-    alt="Banner de perfil"
-  >
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:450A0A,100:DC2626&height=210&section=header&text=Master&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Blockchain%20%7C%20Local%20AI%20%7C%20DevOps%20%7C%20Value%20Investing&descAlignY=62&descSize=15&animation=fadeIn" alt="Banner Master" />
 
-<!-- Texto Animado Efecto Máquina de Escribir -->
-<p align="center">
   <a href="https://github.com/Masterdevp">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Transformando+ideas+complejas+en+productos+digitales;Arquitectura+escalable%2C+c%C3%B3digo+limpio+e+impacto+real;Abierto+a+colaboraciones+y+nuevos+retos+tecnol%C3%B3gicos"
-      alt="Typing SVG"
-    >
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=EF4444&center=true&vCenter=true&width=740&lines=Infraestructura+DevOps+%26+Observabilidad+en+Tiempo+Real;Nodos+Blockchain+%26+Soberan%C3%ADa+Tecnol%C3%B3gica;Despliegue+de+LLMs+e+IA+100%25+en+Local;Value+Investing+%E2%80%94+Fundamentos+S%C3%B3lidos%2C+Cero+Ruido" alt="Typing SVG" />
   </a>
-</p>
 
-<!-- Badges de Contacto y Contador de Visitas -->
+  <br />
 
-  <a href="mailto:contacto@themaster.sh">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    >
-  </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=Masterdevp&label=VISITAS&color=0284c7&style=for-the-badge"
-    alt="Contador de visitas"
-  >
-</p>
+  <!-- BADGES DE ESTADO Y CONTACTO -->
+<p>
+    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Espa%C3%B1a-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=EF4444" alt="España" />
+    <a href="mailto:contacto@themaster.sh">
+      <img src="https://img.shields.io/badge/Email-Contacto-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Masterdevp&label=Visitas&color=DC2626&style=for-the-badge" alt="Visitas al perfil" />
+  </p>
+</div>
 
 ---
 
-## 🎯 Sobre mí
+## 🎯 whoami.yml
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Animación de programación">
+```yaml
+perfil:
+  rol: "Especialista en Blockchain, IA Local & Infraestructura DevOps"
+  inversion: "Value Investing (análisis fundamental y margen de seguridad)"
+  ubicacion: "España — Remoto / Colaboraciones estratégicas"
+  enfoque:
+    - "Soberanía tecnológica, privacidad y control total de la infraestructura"
+    - "Sistemas resilientes, automatizados y monitorizados al milímetro"
+    - "Decisiones respaldadas por métricas reales, nunca por hype"
+```
 
-Especialista en **Blockchain**, **IA Local** e **infraestructura DevOps**, con mentalidad de **Value Investing**. Diseño, despliego y monitorizo sistemas resilientes de alta disponibilidad, aplicando el mismo rigor analítico a la ingeniería que a la inversión: fundamentos sólidos, métricas reales y visión a largo plazo.
+<br>
 
-- 🔭 **Actualmente trabajando en:** Despliegue de infraestructura **DevOps**, nodos y soluciones **Blockchain**, e implementación de modelos de **IA local**.
-- 🛡️ **Core operativo:** Automatización de despliegues, arquitectura de servidores y sistemas de **monitoreo y observabilidad** en tiempo real.
-- 📈 **Filosofía de inversión:** **Value Investing** — análisis fundamental, búsqueda de valor intrínseco, margen de seguridad y convicción a largo plazo, lejos del ruido del mercado.
-- 💡 **Interesado en colaborar en:** Proyectos **Blockchain**, agentes y **LLMs en local**, automatización de infraestructura y herramientas de análisis o monitoreo.
-- 📍 **Ubicación:** `España` _(Disponible para remoto / colaboraciones estratégicas)_
-- ⚡ **Dato clave:** Enfocado en la soberanía tecnológica, la automatización sin fricción y tomar decisiones respaldadas por datos, no por _hype_.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⛓️ Blockchain & Nodos</h4>
+      Despliegue y operación de nodos, arquitectura descentralizada y análisis
+      técnico profundo de ecosistemas Web3 con criterio de seguridad y
+      resiliencia.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 IA Local & LLMs</h4>
+      Implementación, optimización y orquestación de modelos de
+      <b>IA 100% en local</b> y agentes autónomos sin dependencia de terceros ni
+      fugas de datos.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ DevOps & Observabilidad 24/7</h4>
+      Automatización de servidores, infraestructura como código y
+      <b>monitoreo en tiempo real</b> con alertas, telemetría y alta
+      disponibilidad.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Filosofía Value Investing</h4>
+      Búsqueda de valor intrínseco, análisis fundamental riguroso y visión a
+      largo plazo aplicada tanto a la asignación de capital como a la
+      ingeniería.
+    </td>
+  </tr>
+</table>
 
-<br clear="right">
+---
+
+## 🧩 Arquitectura de Trabajo
+
+```mermaid
+flowchart LR
+    A["⛓️ Blockchain & Nodos<br/>Rust • Python"] --> C["🛠️ Infraestructura DevOps<br/>Debian • Docker • Ansible • Terraform"]
+    B["🧠 IA Local & LLMs<br/>Agentes • Privacidad"] --> C
+    C --> D["📡 Observabilidad & Edge<br/>Prometheus • Grafana • Nginx • Cloudflare"]
+    D --> E["📈 Decisiones con Datos<br/>Value Investing • Cero Hype"]
+
+    style A fill:#0A0A0A,stroke:#EF4444,stroke-width:1.5px,color:#F8FAFC
+    style B fill:#0A0A0A,stroke:#EF4444,stroke-width:1.5px,color:#F8FAFC
+    style C fill:#1C090B,stroke:#DC2626,stroke-width:2px,color:#FFFFFF
+    style D fill:#0A0A0A,stroke:#EF4444,stroke-width:1.5px,color:#F8FAFC
+    style E fill:#2A0A0E,stroke:#F87171,stroke-width:2px,color:#FFFFFF
+```
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=ts,js,html,css,java,nodejs,androidstudio,rust,python,sqlite,postgres,mysql,redis,nginx,latex,obsidian,dotnet,cmake,docker,cloudflare,git,github,linux,debian,ansible,terraform,grafana,prometheus&perline=7&theme=dark"
-      alt="Stack Tecnológico"
-    >
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Infraestructura, DevOps & Monitoreo</th>
+      <th align="center">Lenguajes & Desarrollo</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://skillicons.dev/icons?i=linux,debian,docker,ansible,terraform,nginx,cloudflare,prometheus,grafana&perline=5&theme=dark"
+          alt="DevOps y Monitoreo"
+        >
+      </td>
+      <td align="center">
+        <img
+          src="https://skillicons.dev/icons?i=rust,python,ts,js,java,dotnet,nodejs,html,css&perline=5&theme=dark"
+          alt="Lenguajes y Desarrollo"
+        >
+      </td>
+    </tr>
+    <tr>
+      <th align="center">Bases de Datos & Caché</th>
+      <th align="center">Herramientas & Documentación</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&perline=4&theme=dark"
+          alt="Bases de Datos"
+        >
+      </td>
+      <td align="center">
+        <img
+          src="https://skillicons.dev/icons?i=git,github,cmake,androidstudio,latex,obsidian&perline=6&theme=dark"
+          alt="Herramientas"
+        >
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 Estadísticas y Métricas de GitHub
+## 📊 Estadísticas y Métricas
 
 <div align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Masterdevp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&count_private=true"
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=Masterdevp&show_icons=true&bg_color=0A0A0A&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&border_color=450A0A&border_radius=8&count_private=true"
     alt="Estadísticas de GitHub"
   >
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterdevp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0"
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterdevp&layout=compact&bg_color=0A0A0A&title_color=EF4444&text_color=E5E7EB&border_color=450A0A&border_radius=8"
     alt="Lenguajes más usados"
   >
 </div>
 
 <br>
 
-<!-- Racha de Contribuciones -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Masterdevp&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8"
+    src="https://streak-stats.demolab.com?user=Masterdevp&background=0A0A0A&border=450A0A&ring=EF4444&fire=DC2626&currStreakLabel=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E5E7EB&dates=9CA3AF"
     alt="Racha de GitHub"
   >
 </div>
 
 <br>
 
-<!-- Gráfico de Actividad en Tiempo Real -->
 <div align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Masterdevp&bg_color=0D1117&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Masterdevp&bg_color=0A0A0A&color=EF4444&line=DC2626&point=FFFFFF&area=true&area_color=7F1D1D&hide_border=true"
     alt="Gráfico de actividad de GitHub"
   >
 </div>
 
 ---
 
-## 🐍Contribuciones
+## 🐍 Contribuciones
 
 <div align="center">
   <picture>
@@ -119,16 +185,16 @@ Especialista en **Blockchain**, **IA Local** e **infraestructura DevOps**, con m
     >
     <img
       alt="Animación de contribuciones en GitHub"
-      src="https://raw.githubusercontent.com/Masterdevp/masterdevp/output/github-contribution-grid-snake-dark.svg"
+      src="https://raw.githubusercontent.com/Masterdevp/masterdevp/output/github-contribution-grid-snake.svg"
     >
   </picture>
 </div>
 
-<!-- Footer Animado con Onda -->
+<!-- FOOTER NEGRO & ROJO -->
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer"
-    alt="Footer animado"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:450A0A,100:0A0A0A&height=110&section=footer"
+    alt="Footer Masterdevp"
   >
 </div>
