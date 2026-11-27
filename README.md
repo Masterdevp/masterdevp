@@ -2,7 +2,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Tu%20Nombre&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Master&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18"
     alt="Banner de perfil"
   >
 </div>
@@ -18,29 +18,11 @@
 </p>
 
 <!-- Badges de Contacto y Contador de Visitas -->
-<p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
-  </a>
-  <a href="https://tuportafolio.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portafolio"
-    >
-  </a>
+
   <a href="mailto:contacto@themaster.sh">
     <img
       src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
-    >
-  </a>
-  <a href="https://x.com/TU_TWITTER" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
     >
   </a>
   <img
